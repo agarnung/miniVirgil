@@ -50,7 +50,7 @@ Individual PCB views: [view 1](./electronic_design/PCB_view_1.png) · [view 2](.
 
 > [!IMPORTANT]
 >
-> Huge thanks to **[PCBWay](https://www.pcbway.com/)** for manufacturing these boards. The silkscreen printing is precise and clear, and the board surface is well-finished, making it very easy to clean with isopropyl alcohol. Both projects would be published openly on GitHub, promoting PCBWay, as well as on Instructables and on my personal website.
+> Huge thanks to **[PCBWay](https://www.pcbway.com/)** for manufacturing these boards. The silkscreen printing is precise and clear, and the board surface is well-finished, making it very easy to clean with isopropyl alcohol.
 >
 > If you want to order with them: their **prices** and **turnaround** are excellent — check them out at [pcbway.com](https://www.pcbway.com/).
 
