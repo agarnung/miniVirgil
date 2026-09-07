@@ -4,12 +4,6 @@ Physical voice device to interact with the Virgil assistant using a button and a
 
 ![minivirgilgif](./assets/minivirgilgif.gif)
 
-> [!IMPORTANT]
->
-> Huge thanks to **[PCBWay](https://www.pcbway.com/)** for manufacturing these boards. The silkscreen printing is precise and clear, and the board surface is well-finished, making it very easy to clean with isopropyl alcohol. Both projects would be published openly on GitHub, promoting PCBWay, as well as on Instructables and on my personal website.
->
-> If you want to order with them: their **prices** and **turnaround** are excellent — check them out at [pcbway.com](https://www.pcbway.com/).
-
 ---
 
 ## GenAI Features
@@ -53,6 +47,12 @@ The rendered PCB views below were extracted from [`electronic_design/PCB.pdf`](.
 ![PCB overview](./electronic_design/PCB_overview.png)
 
 Individual PCB views: [view 1](./electronic_design/PCB_view_1.png) · [view 2](./electronic_design/PCB_view_2.png) · [view 3](./electronic_design/PCB_view_3.png) · [view 4](./electronic_design/PCB_view_4.png) · [view 5](./electronic_design/PCB_view_5.png)
+
+> [!IMPORTANT]
+>
+> Huge thanks to **[PCBWay](https://www.pcbway.com/)** for manufacturing these boards. The silkscreen printing is precise and clear, and the board surface is well-finished, making it very easy to clean with isopropyl alcohol. Both projects would be published openly on GitHub, promoting PCBWay, as well as on Instructables and on my personal website.
+>
+> If you want to order with them: their **prices** and **turnaround** are excellent — check them out at [pcbway.com](https://www.pcbway.com/).
 
 ---
 
