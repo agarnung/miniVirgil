@@ -54,6 +54,10 @@ Individual PCB views: [view 1](./electronic_design/PCB_view_1.png) · [view 2](.
 >
 > If you want to order with them: their **prices** and **turnaround** are excellent — check them out at [pcbway.com](https://www.pcbway.com/).
 
+Boards from PCBWay:
+
+<img width="1154" height="1390" alt="pcbs_pcbway" src="https://github.com/user-attachments/assets/46d671c9-38c6-4c73-bd58-3d7deb5bf040" />
+
 ---
 
 ## Firmware
