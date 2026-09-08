@@ -58,6 +58,8 @@ Boards from PCBWay:
 
 <img width="1154" height="1390" alt="pcbs_pcbway" src="https://github.com/user-attachments/assets/46d671c9-38c6-4c73-bd58-3d7deb5bf040" />
 
+<img width="675" height="505" alt="modelo_montaje_1" src="https://github.com/user-attachments/assets/4e980ce6-d779-4985-81dd-3f4138e74e04" />
+
 ---
 
 ## Firmware
